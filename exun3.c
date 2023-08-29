@@ -14,9 +14,6 @@ int main(){
     if(altura > 1.8){
         printf("Maior que 1.8");
     }
-    else if(altura == 1,8){
-        printf("Altura igual a 1.8");
-    }
     else{
         printf("Menor que 1.8");
     }
