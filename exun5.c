@@ -3,7 +3,7 @@
 int main(){
     /*5. Avalie a relação abaixo:
 
-    10 % 5 ∗ 2 <> 5 ∗ 2 + 1
+    10 % 5 ∗ 2 != 5 ∗ 2 + 1
 
     O resultado seria verdadeiro ou falso?*/
 
@@ -15,7 +15,7 @@ int main(){
 
      //saida de dados
 
-     if(operacao1 == operacao2){
+     if(operacao1 != operacao2){
         printf("Verdadeiro");
      }
      else{

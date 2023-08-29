@@ -15,7 +15,7 @@ int main(){
         printf("Maior que 1.8");
     }
     else{
-        printf("Menor que 1.8");
+        printf("Menor ou igual que 1.8");
     }
 
     return 0;
